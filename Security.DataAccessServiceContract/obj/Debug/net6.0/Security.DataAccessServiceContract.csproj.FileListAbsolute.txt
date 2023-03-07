@@ -1,0 +1,53 @@
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.deps.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.Domain.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.Domain.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.AssemblyReference.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.AssemblyInfoInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.AssemblyInfo.cs
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.CoreCompileInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.CopyComplete
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\refint\Security.DataAccessServiceContract.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.DataAccessServiceContract\obj\Debug\net6.0\ref\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.deps.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\refint\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.DataAccessServiceContract\obj\Debug\net6.0\ref\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.deps.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.DataAccessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\refint\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\Security.DataAccessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.DataAccessServiceContract\obj\Debug\net6.0\ref\Security.DataAccessServiceContract.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "urvJb1dtgYNzs0J1MQoawfxpP5KvHYK26nkhLRJFRO9ulfMYln/ue3+oZeHyP1QQMTE8FwkEL+Pl/0bJT/t1Aw==",
+  "success": true,
+  "projectFilePath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Framework\\Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Crazy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Crazy\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Crazy\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Crazy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

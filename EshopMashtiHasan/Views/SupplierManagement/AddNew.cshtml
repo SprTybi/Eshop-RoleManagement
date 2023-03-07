@@ -1,0 +1,60 @@
+﻿@model Shopping.BussinessServiceContract.BussinessModel.Supplier.SupplierAddEditViewModel;
+<form asp-action="AddNew" asp-controller="SupplierManagement" method="post" >
+    <table class="table table-bordered table-hover table-striped" >
+       @if (TempData["ErrorMessage"] != null)
+       {
+           <tr>
+               
+               <td colspan="2">
+                   <h4 class="text-center text-danger">
+                       @TempData["ErrorMessage"]
+                   </h4>
+               </td>
+           </tr>
+       }
+       <tr>
+               
+           <td colspan="2">
+              
+               <h4 class="text-center text-danger validation-summary-errors" asp-validation-summary="All">
+
+               </h4>
+           </td>
+       </tr>
+        <tr>
+            <td>
+                <label asp-for="SupplierName"></label>
+            </td>
+            <td>
+                <input asp-for="SupplierName" placeholder="SupplierName" class="form-control"/>
+                <span asp-validation-for="SupplierName" class="text-danger" ></span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Grade"></label>
+                
+            </td>
+            <td>
+                <input asp-for="Grade" placeholder="Grade" class="form-control"/>
+                <span asp-validation-for="Grade" class="text-danger" ></span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Tel"></label>
+            </td>
+            <td>
+                <input asp-for="Tel" placeholder="Tel" class="form-control"/>
+                <span asp-validation-for="Tel" class="text-danger"></span>
+
+            </td>
+        </tr>
+        <tr>
+           
+            <td colspan="2" class="text-center" >
+                <button class="btn btn-primary" >AddNew</button>
+            </td>
+        </tr>
+    </table>
+</form>

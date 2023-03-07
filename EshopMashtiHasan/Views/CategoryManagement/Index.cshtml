@@ -1,0 +1,129 @@
+﻿@model Shopping.DomainModel.DTO.Category.CategorySearchModel
+
+@*@{
+    ViewData["Title"] = "Index";
+    SelectList drpCate = (SelectList)ViewBag.drpCat;
+}*@
+
+<h1>Index</h1>
+
+<div id="dvSearchBox">
+    @await Component.InvokeAsync("CategorySearchBox", this.Model)
+</div>
+
+<div id="dvGrid" >
+       @await Component.InvokeAsync("CategoryList",this.Model)
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    
+    
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="myModal">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" id="dvContent">
+      
+    </div>
+  </div>
+</div>
+}
+<script>
+
+    function BindGrid() {
+        var sendingUrl = '@Url.Action("CategoryListAction","CategoryManagement")';
+        var sendingData = $("#frmSearch").serialize();
+        $.get(sendingUrl, sendingData, function (grd) {
+            $("#dvGrid").html(grd);
+        });
+    }
+      function RefreshSearchBox() {
+        var sendingUrl = '@Url.Action("CategorySearchBoxAction", "CategoryManagement")';
+      //TODOD Send Search Paramateres
+        $.get(sendingUrl, null, function (frmSearch) {
+            $("#dvSearchBox").html(frmSearch);
+        });
+    }
+    function SuccessMessage(SuccessTxt) {
+        Swal.fire({
+            icon: 'success',
+            title: 'وضعیت ثبت',
+            text: SuccessTxt,
+        });
+    }
+    function ErrorMessage(ErrorTxt) {
+        Swal.fire({
+            icon: 'error',
+            title: 'خطا',
+            text: ErrorTxt,
+        });
+    }
+    $(document).on("click","#btnAdd",function(){
+                var action = $(this).attr("data-action");
+                var method = $(this).attr("data-method");
+                var formid ="#"+$(this).attr("data-form-id");
+                if(method==="post")
+                {
+                    var sendingData = $(formid).serialize();
+                    $.post(action,sendingData,function(op){
+                        if(op.success.toString()=="true")
+                        {
+
+                          $("#myModal").modal("hide");
+                            SuccessMessage(op.message);
+                            BindGrid();
+                            RefreshSearchBox();
+                        }
+                        else{
+                            ErrorMessage(op.message);
+                        }
+                    });
+                }
+            });
+    //$(document).ready(function(){
+    //    $("#btnAddNew").click(function(){
+    //        var url = $(this).attr("data-action");
+    //        var container =$(this).attr("data-container");
+    //        var modal= $(this).attr("data-modal-id");
+    //       $.get(url,null,function(rd){
+    //        $("#" +container ).html(rd);
+    //        $("#" + modal).modal('show');
+    //       });
+    //    });
+
+    //});
+    $(document).on("click", "#btnAddNew",function () {
+        var url = $(this).attr("data-action");
+        var container = $(this).attr("data-container");
+        var modal = $(this).attr("data-modal-id");
+        $.get(url, null, function (rd) {
+            $("#" + container).html(rd);
+            $("#" + modal).modal('show');
+        });
+    });
+    $(document).on("keyup", "#CategoryName", function () {
+        BindGrid();
+    });
+    $(document).on("change", "#ParentID", function () {
+        BindGrid();
+    });
+    $(document).on("click", ".btnDelete", function () {
+        if (confirm("آیا مطمنید")) {
+            var id = $(this).attr("data-id");
+            var sendingData = "id=" + id;
+            var sendingUrl = '@Url.Action("Delete","CategoryManagement")';
+            $.post(sendingUrl, sendingData, function (op) {
+                if (op.success.toString() == "true")
+                {
+                    var rowID = "#tr_" + id;
+                    $(rowID).slideUp(500);
+                    BindGrid();
+                }
+                else
+                {
+                    ErrorMessage(op.message);
+                }
+            });
+        }
+       
+    });
+</script>

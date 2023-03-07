@@ -1,0 +1,177 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EshopMashtiHasan
+build_property.RootNamespace = EshopMashtiHasan
+build_property.ProjectDir = F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\EshopMashtiHasan\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\EshopMashtiHasan
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/CategoryManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlNYW5hZ2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/ProjectActionManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEFjdGlvbk1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/ProjectAreaManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdEFyZWFNYW5hZ2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/ProjectControllerManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdENvbnRyb2xsZXJNYW5hZ2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Reflector/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmbGVjdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/RoleActionManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUFjdGlvbk1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/RoleManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZU1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/CategoryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/CategorySearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlTZWFyY2hCb3hcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectActionList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdEFjdGlvbkxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectActionRegister/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdEFjdGlvblJlZ2lzdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectActionSearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdEFjdGlvblNlYXJjaEJveFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectAreaList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdEFyZWFMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectAreaRegister/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdEFyZWFSZWdpc3RlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectAreaSearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdEFyZWFTZWFyY2hCb3hcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectControllerList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdENvbnRyb2xsZXJMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectControllerRegister/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdENvbnRyb2xsZXJSZWdpc3RlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/ProjectControllerSearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdENvbnRyb2xsZXJTZWFyY2hCb3hcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/RegisterCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVnaXN0ZXJDYXRlZ29yeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/RoleActionList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUm9sZUFjdGlvbkxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/RoleActionRegister/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUm9sZUFjdGlvblJlZ2lzdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/RoleActionSearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUm9sZUFjdGlvblNlYXJjaEJveFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/RoleList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUm9sZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/RoleRegister/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUm9sZVJlZ2lzdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/RoleSearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUm9sZVNlYXJjaEJveFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/SupplierSearchResult/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3VwcGxpZXJTZWFyY2hSZXN1bHRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/UserList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/UserRegister/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlclJlZ2lzdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Components/UserSearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlclNlYXJjaEJveFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/SupplierManagement2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJNYW5hZ2VtZW50MlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/SupplierManagement/AddNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJNYW5hZ2VtZW50XEFkZE5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/SupplierManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJNYW5hZ2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/UserManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tahlil Dadeh/MVC/Session17/Eshop-Security-1.0/EshopMashtiHasan/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1qm2ls3x00

@@ -1,0 +1,15 @@
+﻿@model Security.Domain.DTO.Role.RoleSearchModel
+
+<h4>RoleSearchModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="View" id="frmRoleSearchBox">
+            <div class="form-group">
+                <label asp-for="RoleName" class="control-label"></label>
+                <input asp-for="RoleName" class="form-control" id="RoleNameChange"/>
+            </div>
+        </form>
+    </div>
+</div>
+

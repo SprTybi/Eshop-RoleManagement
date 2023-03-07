@@ -1,0 +1,31 @@
+﻿@model Shopping.DomainModel.DTO.Supplier.SupplierSearchModel
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Index" method="get" asp-controller="SupplierManagement2">
+            <table class="table table-bordered table-hover table-striped" >
+                <tr>
+                    <td>SupplierName</td>
+                    <td>
+                        <input asp-for="SupplierName" class="form-control"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Tel</td>
+                    <td>
+                        <input asp-for="Tel" class="form-control"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="text-center" >
+                        <input type="submit" value="Search" class="btn btn-success"/>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        @await Component.InvokeAsync("SupplierSearchResult",this.Model)
+    </div>
+</div>

@@ -1,0 +1,225 @@
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\refint\Shopping.BootStrap.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\refint\Shopping.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.deps.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.runtimeconfig.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BootStrap.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.BussinessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.Bussiness.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\refint\Shopping.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\Shopping.BootStrap.genruntimeconfig.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.BootStrap\obj\Debug\net6.0\ref\Shopping.BootStrap.dll

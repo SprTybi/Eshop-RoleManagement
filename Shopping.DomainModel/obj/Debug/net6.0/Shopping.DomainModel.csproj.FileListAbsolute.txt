@@ -1,0 +1,126 @@
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\refint\Shopping.DomainModel.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\refint\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.deps.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.runtimeconfig.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\refint\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\Shopping.DomainModel.genruntimeconfig.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DomainModel\obj\Debug\net6.0\ref\Shopping.DomainModel.dll

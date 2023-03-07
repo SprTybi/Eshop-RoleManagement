@@ -1,0 +1,30 @@
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\bin\Debug\net6.0\Security.BussinessServiceContract.deps.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\bin\Debug\net6.0\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\bin\Debug\net6.0\Security.BussinessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\bin\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\bin\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\refint\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BussinessServiceContract\obj\Debug\net6.0\ref\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\bin\Debug\net6.0\Security.BussinessServiceContract.deps.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\bin\Debug\net6.0\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\bin\Debug\net6.0\Security.BussinessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\bin\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\bin\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\refint\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\Security.BussinessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BussinessServiceContract\obj\Debug\net6.0\ref\Security.BussinessServiceContract.dll

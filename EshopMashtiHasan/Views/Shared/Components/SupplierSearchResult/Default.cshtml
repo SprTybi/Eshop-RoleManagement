@@ -1,0 +1,29 @@
+﻿@model List<Shopping.DomainModel.DTO.Supplier.SupplierListItem>
+@if (Model == null || Model.Count == 0)
+{
+    <h4 class="text-danger text-center" >
+        No Supplier 
+    </h4>
+}
+else
+{
+    <table class="table table-bordered table-hover table-striped" >
+        <tr>
+            <td>SupplierID</td>
+            <td>SupplierName</td>
+            <td>Grade</td>
+            <td>Tel</td>
+            <td>Product Count</td>
+        </tr>
+        @foreach (var sup in this.Model)
+        {
+            <tr>
+                <td>@sup.SupplierID</td>
+                <td>@sup.SupplierName</td>
+                <td>@sup.Grade</td>
+                <td>@sup.Tel</td>
+                <td>@sup.ProductCount</td>
+            </tr>
+        }
+    </table>
+}

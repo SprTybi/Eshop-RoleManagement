@@ -1,0 +1,86 @@
+﻿@model Security.Domain.DTO.ProjectArea.ProjectAreaSearchModel
+
+<div id="dvSearchBox">
+    @await Component.InvokeAsync("ProjectAreaSearchBox", this.Model)
+</div>
+
+<span class="btn btn-primary" id="btnOpenAddModalForm">Add form</span>
+<div id="dvContentProjectAreaList">
+    @await Component.InvokeAsync("ProjectAreaList",this.Model)
+</div>
+
+@*modal*@
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="myModalProjectArea">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div id="dvContentProjectArea"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("#btnOpenAddModalForm").click(function () {
+            var sendingUrl = '@Url.Action("AddNew","ProjectAreaManagement")';
+            var sendingData = $("#frmProjectAreaSearchBox").serialize();
+            $.get(sendingUrl, sendingData, function (rd) {
+                $("#myModal").modal('show');
+                $("#dvContent").html(rd);
+            });
+        });
+    });
+    $(document).on("click", "#btnAddNewProjectArea", function () {
+        var sendingUrl = '@Url.Action("AddNewArea","ProjectAreaManagement")';
+        var sendingData = $("#addNewProjectAreaForm").serialize();
+        $.post(sendingUrl, sendingData, function (op) {
+            if (op.success.toString() == "true") {
+                $("#myModal").modal("hide");
+                SuccessMessage(op.message);
+                BindGrid();
+                RefreshSearchBox();
+            }
+            else {
+                ErrorMessage(op.message);
+            }
+        });
+    });
+
+
+
+    function BindGrid() {
+        var sendingUrl = '@Url.Action("ProjectAreaList","ProjectAreaManagement")';
+        var sendingData = $("#frmProjectAreaSearchBox").serialize();;
+        $.get(sendingUrl, sendingData, function (grd) {
+            $("#dvContentProjectAreaList").html(grd);
+        });
+    };
+    function RefreshSearchBox() {
+        var sendingUrl = '@Url.Action("ProjectAreaSearchBox","ProjectAreaManagement")';
+        var sendingData = $("#frmProjectAreaSearchBox").serialize();
+        $.get(sendingUrl, sendingData, function (frmSearch) {
+            $("#dvSearchBox").html(frmSearch);
+        });
+    }
+    $(document).on("click", ".btnDeleteProjectArea", function () {
+        var name = $(this).attr("data-name");
+        if (confirm(`آیا از حذف ${name} مطمئن هستید ؟`)) {
+            var id = $(this).attr("data-id");
+            var sendingData = "id=" + id;
+            var sendingUrl = '@Url.Action("DeleteProjectArea","ProjectAreaManagement")';
+            $.post(sendingUrl, sendingData, function (op) {
+                if (op.success.toString() == "true") {
+                    var rowID = "#tr_" + id;
+                    $(rowID).slideUp(500);
+                    BindGrid();
+                }
+                else {
+                    ErrorMessage(op.message);
+                }
+            });
+        }
+
+    });
+
+</script>
+
+

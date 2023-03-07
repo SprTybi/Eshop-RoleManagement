@@ -1,0 +1,371 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccess\\Security.DataAccess.csproj": {}
+  },
+  "projects": {
+    "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccessServiceContract\\Security.DataAccessServiceContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccessServiceContract\\Security.DataAccessServiceContract.csproj",
+        "projectName": "Security.DataAccessServiceContract",
+        "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccessServiceContract\\Security.DataAccessServiceContract.csproj",
+        "packagesPath": "C:\\Users\\Crazy\\.nuget\\packages\\",
+        "outputPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccessServiceContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Crazy\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.Domain\\Security.Domain.csproj": {
+                "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.Domain\\Security.Domain.csproj"
+              },
+              "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DataAcceServiceContract\\Shopping.DataAcceServiceContract.csproj": {
+                "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DataAcceServiceContract\\Shopping.DataAcceServiceContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccess\\Security.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccess\\Security.DataAccess.csproj",
+        "projectName": "Security.DataAccess",
+        "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccess\\Security.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Crazy\\.nuget\\packages\\",
+        "outputPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Crazy\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccessServiceContract\\Security.DataAccessServiceContract.csproj": {
+                "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.DataAccessServiceContract\\Security.DataAccessServiceContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.Domain\\Security.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.Domain\\Security.Domain.csproj",
+        "projectName": "Security.Domain",
+        "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.Domain\\Security.Domain.csproj",
+        "packagesPath": "C:\\Users\\Crazy\\.nuget\\packages\\",
+        "outputPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Security.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Crazy\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DataAcceServiceContract\\Shopping.DataAcceServiceContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DataAcceServiceContract\\Shopping.DataAcceServiceContract.csproj",
+        "projectName": "Shopping.DataAcceServiceContract",
+        "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DataAcceServiceContract\\Shopping.DataAcceServiceContract.csproj",
+        "packagesPath": "C:\\Users\\Crazy\\.nuget\\packages\\",
+        "outputPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DataAcceServiceContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Crazy\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DomainModel\\Shopping.DomainModel.csproj": {
+                "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DomainModel\\Shopping.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DomainModel\\Shopping.DomainModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DomainModel\\Shopping.DomainModel.csproj",
+        "projectName": "Shopping.DomainModel",
+        "projectPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DomainModel\\Shopping.DomainModel.csproj",
+        "packagesPath": "C:\\Users\\Crazy\\.nuget\\packages\\",
+        "outputPath": "F:\\Tahlil Dadeh\\MVC\\Session17\\Eshop-Security-1.0\\Shopping.DomainModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Crazy\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

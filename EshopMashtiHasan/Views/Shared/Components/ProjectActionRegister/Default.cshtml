@@ -1,0 +1,25 @@
+﻿@model Security.Domain.DTO.ProjectAction.ProjectActionAddModel
+
+<h4>ProjectActionAddModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="View" id="addNewProjectActionForm">
+            <div class="form-group">
+                <label asp-for="ProjectActionName" class="control-label"></label>
+                <input asp-for="ProjectActionName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="PersianTitle" class="control-label"></label>
+                <input asp-for="PersianTitle" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="ProjectControllerID" class="control-label"></label>
+                <select asp-items="@ViewBag.drpController" class="form-control" asp-for="ProjectControllerID"></select>
+            </div>
+            <div class="form-group">
+                <a href="#" class="btn btn-success" id="btnAddNewProjectAction">Add</a>
+            </div>
+        </form>
+    </div>
+</div>

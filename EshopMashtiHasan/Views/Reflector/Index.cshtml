@@ -1,0 +1,49 @@
+﻿@model IEnumerable<EshopMashtiHasan.Models.AreaControllerActionList>
+
+
+<button class="btn btn-success" id="btnAdd" data-action='@Url.Action("AddAll","Reflector")'>Add All</button>
+
+<table class="table table-striped table-hover table-striped mt-2">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ControllerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActionName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AreaName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ControllerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ActionName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AreaName)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<script>
+    $(document).on("click", "btnAdd", function () {
+        var URL = '@Url.Action("AddAll","Reflector")'
+        $.get(url, null, function () {
+            alert("ok")
+        })
+    })
+
+</script>

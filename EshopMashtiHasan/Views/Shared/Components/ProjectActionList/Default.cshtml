@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Security.Domain.DTO.ProjectAction.ProjectActionListItem>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectActionID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectActionName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PersianTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectControllerName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="tr_@item.ProjectActionID">
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectActionID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectActionName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PersianTitle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectControllerName)
+                </td>
+                <td>
+                    <span class="btn btn-danger btnDeleteProjectAction" data-id="@item.ProjectActionID" data-name="@item.ProjectActionName">Delete</span>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

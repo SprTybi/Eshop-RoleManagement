@@ -1,0 +1,28 @@
+﻿@model Security.Domain.DTO.ProjectController.ProjectControllerSearchModel
+
+<h4>ProjectControllerSearchModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Default" id="frmProjectControllerSearchBox">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProjectControllerName" class="control-label"></label>
+                <input asp-for="ProjectControllerName" class="form-control" id="ProjectControllerNameChange"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="PersianTitle" class="control-label"></label>
+                <input asp-for="PersianTitle" class="form-control" id="PersianTitleChange" />
+            </div>
+            <div class="form-group">
+                <label asp-for="ProjectAreaID" class="control-label"></label>
+                <select asp-items="@ViewBag.drpArea" class="form-control" asp-for="ProjectAreaID" id="ProjectAreaIDChange"></select>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

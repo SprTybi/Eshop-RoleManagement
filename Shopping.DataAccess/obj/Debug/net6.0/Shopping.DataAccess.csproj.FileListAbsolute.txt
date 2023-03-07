@@ -1,0 +1,171 @@
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\6\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\8\Final\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\9\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\12\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\13\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\refint\Shopping.DataAccess.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\refint\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.deps.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.runtimeconfig.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAccess.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\refint\Shopping.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\Shopping.DataAccess.genruntimeconfig.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Shopping.DataAccess\obj\Debug\net6.0\ref\Shopping.DataAccess.dll

@@ -1,0 +1,17 @@
+﻿@model Security.Domain.DTO.ProjectArea.ProjectAreaSearchModel
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Default" id="frmProjectAreaSearchBox">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="AreaName" class="control-label"></label>
+                <input asp-for="AreaName" class="form-control" id="AreaNameChange" />
+            </div>
+            <div class="form-group">
+                <label asp-for="PersianTitle" class="control-label"></label>
+                <input asp-for="PersianTitle" class="form-control" id="PersianTitleChange" />
+            </div>
+        </form>
+    </div>
+</div>

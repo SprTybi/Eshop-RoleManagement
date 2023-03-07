@@ -1,0 +1,84 @@
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\ref\Security.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.Domain.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.Domain.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.CopyComplete
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\ref\Security.BootStrap.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.deps.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.Domain.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\bin\Debug\net6.0\Security.Domain.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.AssemblyReference.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.AssemblyInfoInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.AssemblyInfo.cs
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.CoreCompileInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.CopyComplete
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\refint\Security.BootStrap.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.BootStrap\obj\Debug\net6.0\ref\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.deps.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.Bussiness.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.BussinessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.Bussiness.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.DataAccessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.DataAccess.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\refint\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.BootStrap\obj\Debug\net6.0\ref\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.deps.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.BootStrap.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.Bussiness.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.BussinessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.DataAccess.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.DataAccessServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.BussinessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.Bussiness.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.DataAccessServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.DataAccess.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Shopping.DataAcceServiceContract.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Shopping.DomainModel.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.csproj.CopyComplete
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\refint\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\ref\Security.BootStrap.dll

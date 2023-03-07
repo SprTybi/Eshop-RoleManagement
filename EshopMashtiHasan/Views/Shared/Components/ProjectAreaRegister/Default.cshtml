@@ -1,0 +1,22 @@
+﻿@model Security.Domain.DTO.ProjectArea.ProjectAreaAddModel
+
+<h4>ProjectAreaAddModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Default" id="addNewProjectAreaForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="AreaName" class="control-label"></label>
+                <input asp-for="AreaName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="PersianTitle" class="control-label"></label>
+                <input asp-for="PersianTitle" class="form-control" />
+            </div>
+            <div class="form-group">
+                <a href="#" class="btn btn-success" id="btnAddNewProjectArea">Add</a>
+            </div>
+        </form>
+    </div>
+</div>

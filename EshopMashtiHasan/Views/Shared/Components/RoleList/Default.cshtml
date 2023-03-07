@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Security.Domain.DTO.Role.RoleListItem>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserCount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="tr_@item.RoleID">
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoleID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserCount)
+                </td>
+                <td>
+                    <span class="btn btn-danger btnDeleteRole" data-id="@item.RoleID" data-name="@item.RoleName">Delete</span>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

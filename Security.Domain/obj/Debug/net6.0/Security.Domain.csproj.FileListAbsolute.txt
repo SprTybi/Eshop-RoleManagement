@@ -1,0 +1,56 @@
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.csproj.AssemblyReference.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.AssemblyInfoInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.AssemblyInfo.cs
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.csproj.CoreCompileInputs.cache
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\Security.Domain.deps.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\Security.Domain.runtimeconfig.json
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\Security.Domain.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\ref\Security.Domain.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\Security.Domain.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\ref\Security.Domain.dll
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.pdb
+F:\AfshinRefua\1401-08-05MVCElementary\15\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.genruntimeconfig.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\Security.Domain.deps.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\Security.Domain.runtimeconfig.json
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\Security.Domain.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\bin\Debug\net6.0\Security.Domain.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.csproj.AssemblyReference.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.AssemblyInfoInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.AssemblyInfo.cs
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.csproj.CoreCompileInputs.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\refint\Security.Domain.dll
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.pdb
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\Security.Domain.genruntimeconfig.cache
+\\DESKTOP-BFBCTEU\EshopMashtiHasan\Security.Domain\obj\Debug\net6.0\ref\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\bin\Debug\net6.0\Security.Domain.deps.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\bin\Debug\net6.0\Security.Domain.runtimeconfig.json
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\bin\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\bin\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\Security.Domain.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\Security.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\Security.Domain.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\Security.Domain.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\Security.Domain.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\refint\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\Security.Domain.genruntimeconfig.cache
+F:\Tahlil Dadeh\MVC\Session 15\EshopMashtiHasan\Eshop\Security.Domain\obj\Debug\net6.0\ref\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\bin\Debug\net6.0\Security.Domain.deps.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\bin\Debug\net6.0\Security.Domain.runtimeconfig.json
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\bin\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\bin\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\Security.Domain.csproj.AssemblyReference.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\Security.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\Security.Domain.AssemblyInfoInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\Security.Domain.AssemblyInfo.cs
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\Security.Domain.csproj.CoreCompileInputs.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\refint\Security.Domain.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\Security.Domain.pdb
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\Security.Domain.genruntimeconfig.cache
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.Domain\obj\Debug\net6.0\ref\Security.Domain.dll

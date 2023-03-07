@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Security.Domain.DTO.RoleAction.RoleActionListItem>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleActionID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectActionName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectControllerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HasPermission)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="tr_@item.RoleActionID">
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoleActionID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectActionName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectControllerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HasPermission)
+                </td>
+                <td>
+                    <span class="btn btn-danger btnDeleteRoleAction" data-id="@item.RoleActionID" data-name="@item.ProjectActionName">Delete</span>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
