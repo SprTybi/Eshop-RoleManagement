@@ -82,3 +82,5 @@ F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\ne
 F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\refint\Security.BootStrap.dll
 F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\Security.BootStrap.pdb
 F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\obj\Debug\net6.0\ref\Security.BootStrap.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Framework.dll
+F:\Tahlil Dadeh\MVC\Session17\Eshop-Security-1.0\Security.BootStrap\bin\Debug\net6.0\Framework.pdb

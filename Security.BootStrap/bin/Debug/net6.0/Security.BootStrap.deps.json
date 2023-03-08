@@ -731,8 +731,17 @@
           }
         }
       },
+      "Framework/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "runtime": {
+          "Framework.dll": {}
+        }
+      },
       "Security.Bussiness/1.0.0": {
         "dependencies": {
+          "Framework": "1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "2.2.0",
           "Security.BussinessServiceContract": "1.0.0",
           "Security.DataAccessServiceContract": "1.0.0"
@@ -1241,6 +1250,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Security.Bussiness/1.0.0": {
       "type": "project",

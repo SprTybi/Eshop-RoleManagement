@@ -1,29 +1,46 @@
+using EshopMashtiHasan.Helper;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-//builder.Services.Configure<CookiePolicyOptions>(options =>
-//{
-//    // This lambda determines whether user consent for non-essential cookies is needed for a given request.
-//    options.CheckConsentNeeded = context => true;
-//    options.MinimumSameSitePolicy = SameSiteMode.None;
-//});
-//builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-//    .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, o =>
-//    {
-//        o.LoginPath = new PathString("/Account/Login");
-//        o.LogoutPath = new PathString("/Account/Logout");
-//        o.AccessDeniedPath = new PathString("/Account/Login");
-//    });
-
+builder.Services.Configure<CookiePolicyOptions>(options =>
+{
+    // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+    options.CheckConsentNeeded = context => true;
+    options.MinimumSameSitePolicy = SameSiteMode.None;
+});
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, o =>
+    {
+        o.LoginPath = new PathString("/Account/Login");
+        o.LogoutPath = new PathString("/Account/Logout");
+        o.AccessDeniedPath = new PathString("/Account/Login");
+    });
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddControllersWithViews();
 
 var str = builder.Configuration["ConnectionString"];
 var SecurityConnectionString = builder.Configuration["SecurityConnectionString"];
-Shopping.BootStrap.BootStrap.WireUP(builder.Services,str);
+Shopping.BootStrap.BootStrap.WireUP(builder.Services, str);
 Security.BootStrap.SecurityBootStrap.WireUP(builder.Services, SecurityConnectionString);
 
-//builder.Services.AddScoped<Helper.CustomAuthenticator>();
+//Session Management
+builder.Services.AddSession(opt =>
+{
+    opt.IdleTimeout = TimeSpan.FromMinutes(30);
+    opt.Cookie.HttpOnly = true;
+
+    opt.Cookie.IsEssential = true;
+});
+//HSTS tell to browser not send http request
+builder.Services.AddHsts(op =>
+{
+    op.MaxAge = TimeSpan.FromMinutes(2);
+    op.IncludeSubDomains = true;
+});
+builder.Services.AddScoped<CustomAuthenticator>();
 
 var app = builder.Build();
 

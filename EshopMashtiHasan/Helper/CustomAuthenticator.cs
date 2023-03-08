@@ -1,17 +1,17 @@
 ﻿using System.Linq;
 using Microsoft.AspNetCore.Mvc.Filters;
-using Security.Application.SecurityApplicationService;
-using Security.Domain.Query;
+using Security.BussinessServiceContract.Services;
+using Security.Domain.DTO.User;
 
 namespace EshopMashtiHasan.Helper
 {
     public class CustomAuthenticator : ActionFilterAttribute
     {
         private readonly IAuthHelper _authHelper;
-        private readonly IAccountApplication _acountApp;
+        private readonly IAccountBussiness _acountApp;
 
 
-        public CustomAuthenticator(IAuthHelper authHelper, IAccountApplication _acountApp)
+        public CustomAuthenticator(IAuthHelper authHelper, IAccountBussiness _acountApp)
         {
             _authHelper = authHelper;
             this._acountApp = _acountApp;
@@ -38,8 +38,8 @@ namespace EshopMashtiHasan.Helper
             {
                 context.HttpContext.Response.Redirect("/Account/Login");
             }
-
-            Security.Domain.Query.CheckPermission permission = new CheckPermission
+            
+            CheckPermission permission = new CheckPermission
             {
                 UserName = username
                 ,

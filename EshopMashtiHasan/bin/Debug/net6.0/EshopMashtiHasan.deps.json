@@ -2429,6 +2429,9 @@
         }
       },
       "Framework/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
         "runtime": {
           "Framework.dll": {}
         }
@@ -2449,6 +2452,7 @@
       },
       "Security.Bussiness/1.0.0": {
         "dependencies": {
+          "Framework": "1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "2.2.0",
           "Security.BussinessServiceContract": "1.0.0",
           "Security.DataAccessServiceContract": "1.0.0"
